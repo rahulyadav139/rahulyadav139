@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulyadav139
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at Twitter (@rahulyadav139)
 
